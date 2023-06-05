@@ -1,6 +1,8 @@
 # interception_task
 This repository includes my bachelor's thesis experiment. You can find the Unity project in the corresponding folder and also the subject data that has been raised throughout the experiment.
-# Unity Experiment
+## Experiment
+In the [experiment folder](experiment) you can find the recorded data and all the other stuff that was needed like instructions that people received in the beginning of the experiment.
+## Unity Experiment
 In the [unity_experiment folder](unity_experiment) you can find the unity project that can be downloaded and run via the Unity Hub. The unity project has only been tested and run on Unity 2019.4.15f1. Make sure that you have the right version installed (the unity hub inbuild installer is very nice).
 ## Steering Wheel Integration
 The experiment used an Logitech Steering Wheel G29 as the input hardware for steering the car. The integration in unity was very tricky. If you are interested in which steps had to be done or you are facing the same issues as I did here are a few very helpful links:
